@@ -12,3 +12,6 @@ power system
 The circuit was simulated under normal conditions as well as under various fault conditions.
 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KingArthur000/Electrical-Fault-detection-and-classification/main/pics/power%20system.png" width="350" title="hover text">
+</p>
